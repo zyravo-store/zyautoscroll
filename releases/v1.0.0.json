@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "product": "ZyAutoScroll",
+  "version": "1.0.0",
+  "build": "260727",
+  "displayVersion": "Version 1.0.0 (260727)",
+  "tag": "v1.0.0",
+  "releaseTitle": "ZyAutoScroll 1.0.0 (260727)",
+  "website": "https://zyautoscroll.zyravo.store",
+  "supportEmail": "support@zyravo.store",
+  "feedbackEmail": "feedback@zyravo.store",
+  "issuesUrl": "https://github.com/zyravo-store/zyautoscroll/issues",
+  "wikiUrl": "https://github.com/zyravo-store/zyautoscroll/wiki",
+  "releaseUrl": "https://github.com/zyravo-store/zyautoscroll/releases/tag/v1.0.0",
+  "updates": {
+    "en": [
+      "What's updated",
+      "Added Report an issue and Check for updates links inside the extension.",
+      "Connected the official website's GitHub and download actions to the public",
+      "ZyAutoScroll repository and its latest Release.",
+      "Supported features",
+      "Automatic scrolling up, down, left, or right.",
+      "Adjustable speed, frequency, edge behavior, and interaction pauses.",
+      "Per-page profiles, page hotkeys, and browser shortcuts.",
+      "Packages for Chrome, Microsoft Edge, and Firefox.",
+      "Safari Web Extension project prepared for signing and App Store distribution.",
+      "Official website, privacy policy, terms, and support content in 20 languages."
+    ],
+    "zh-CN": [
+      "本次更新",
+      "扩展内新增“反馈问题”和“检查更新”入口。",
+      "官网 GitHub 与下载入口统一指向 ZyAutoScroll 公开仓库及最新 Release。",
+      "支持功能",
+      "支持向上、向下、向左、向右自动滚动。",
+      "支持调节速度、频率、边缘行为和交互暂停。",
+      "支持逐页面配置、页面快捷键和浏览器快捷键。",
+      "提供 Chrome、Microsoft Edge 和 Firefox 安装包。",
+      "Safari Web Extension 工程可用于签名和 App Store 分发。",
+      "官网、隐私政策、用户协议与支持内容适配 20 种语言。"
+    ]
+  },
+  "features": {
+    "en": [
+      "Start, pause, and stop automatic scrolling from a compact browser control.",
+      "Adjust direction and speed for reading, presentations, and long pages.",
+      "Use keyboard shortcuts and site-aware preferences across supported browsers."
+    ],
+    "zh-CN": [
+      "通过简洁的浏览器控制面板启动、暂停和停止自动滚动。",
+      "调整滚动方向与速度，适用于阅读、演示和长页面浏览。",
+      "在支持的浏览器中使用快捷键和站点偏好设置。"
+    ]
+  },
+  "packages": {
+    "chrome": {
+      "file": "zyautoscroll-chrome-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-chrome-1.0.0.zip"
+    },
+    "edge": {
+      "file": "zyautoscroll-edge-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-edge-1.0.0.zip"
+    },
+    "firefox": {
+      "file": "zyautoscroll-firefox-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-firefox-1.0.0.zip"
+    },
+    "windows": {
+      "file": "zyautoscroll-windows-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-windows-1.0.0.zip"
+    },
+    "linux": {
+      "file": "zyautoscroll-linux-1.0.0.tar.gz",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-linux-1.0.0.tar.gz"
+    },
+    "macos-pkg": {
+      "file": "zyautoscroll-macos-1.0.0.pkg",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-macos-1.0.0.pkg"
+    },
+    "macos-dmg": {
+      "file": "zyautoscroll-macos-1.0.0.dmg",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-macos-1.0.0.dmg"
+    },
+    "checksums": {
+      "file": "zyautoscroll-1.0.0-sha256.txt",
+      "url": "https://github.com/zyravo-store/zyautoscroll/releases/download/v1.0.0/zyautoscroll-1.0.0-sha256.txt"
+    }
+  },
+  "changes": {
+    "en": [
+      "Start, pause, and stop automatic scrolling from a compact browser control.",
+      "Adjust direction and speed for reading, presentations, and long pages.",
+      "Use keyboard shortcuts and site-aware preferences across supported browsers."
+    ],
+    "zh-CN": [
+      "通过简洁的浏览器控制面板启动、暂停和停止自动滚动。",
+      "调整滚动方向与速度，适用于阅读、演示和长页面浏览。",
+      "在支持的浏览器中使用快捷键和站点偏好设置。"
+    ]
+  }
+}
